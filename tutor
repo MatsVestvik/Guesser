@@ -1,2 +1,4 @@
-this is text that is inserted
-this is appended and ensuring that i still remeber the movements
+This is appended and ensuring that i still remeber the movements
+This is text that is inserted. This is added. This is a practising of the vim movements
+rember to use hjkl as tha arrows. use the w movement t oskip a word plus a space. Prefix 
+these by numbers f.eks 2w to execute twice.
