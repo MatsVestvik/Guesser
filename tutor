@@ -3,3 +3,4 @@ This is text that is inserted. This is added. This is a practising of the vim mo
 rember to use hjkl as tha arrows. use the w movement t oskip a word plus a space. Prefix 
 these by numbers f.eks 2w to execute twice.
 This is still practicing the vim movements i used $ to skip to the and of the line.
+This is to test the externtal command cunction with :!git
