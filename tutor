@@ -6,3 +6,4 @@ This is still practicing the vim movements i used $ to skip to the and of the li
 This is to test the externtal command cunction with :!git
 This line was written by first using 9j to jump nine lines down.
 Then i used o to open a line down, this also puts me in insert mode to type.
+This was written by 9j, o and then escape.
